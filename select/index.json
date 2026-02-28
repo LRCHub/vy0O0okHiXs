@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Saturday Nights",
+  "base_artist": "Khalid",
+  "createdAt": "2026-02-28T05:35:48.347728Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saturday Nights REMIX",
+      "artist": "Khalid feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Saturday_Nights_REMIX_Khalid_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Saturday Nights REMIX",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/02_Saturday_Nights_REMIX_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright (For Fighting)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/03_Saturday_Night's_Alright_(For_Fighting)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Saturday Night's All Right (For Fighting)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/04_Saturday_Night's_All_Right_(For_Fighting)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright For Fighting",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/05_Saturday_Night's_Alright_For_Fighting_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saturday Night’s Alright for Fighting",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/06_Saturday_Night’s_Alright_for_Fighting_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright for Fighting",
+      "artist": "Flotsam and Jetsam",
+      "has_synced": true,
+      "path": "select/07_Saturday_Night's_Alright_for_Fighting_Flotsam_and_Jetsam.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright (For Fighting)",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/08_Saturday_Night's_Alright_(For_Fighting)_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Saturday Nights",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/09_Saturday_Nights_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Saturday Night’s Alright (For Fighting) - Remastered 2014",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/10_Saturday_Night’s_Alright_(For_Fighting)_-_Remastered_2014_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Saturday Night’s Alright (For Fighting) (Remastered 2014)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/11_Saturday_Night’s_Alright_(For_Fighting)_(Remastered_2014)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saturday Nights (Balo Unofficial Remix) (Mixed)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/12_Saturday_Nights_(Balo_Unofficial_Remix)_(Mixed)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saturday night’s alright (for fighting) (remastered)",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/13_Saturday_night’s_alright_(for_fighting)_(remastered)_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright for Fighting",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/14_Saturday_Night's_Alright_for_Fighting_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright (For Fighting)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/15_Saturday_Night's_Alright_(For_Fighting)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright (for Fighting)",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/16_Saturday_Night's_Alright_(for_Fighting)_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Saturday Night's Alright (For Fighting) - Live",
+      "artist": "Elton John feat. Anastacia",
+      "has_synced": false,
+      "path": "select/17_Saturday_Night's_Alright_(For_Fighting)_-_Live_Elton_John_feat._Anastacia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Saturday Nights",
+      "artist": "Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_Saturday_Nights_Khalid.txt"
+    }
+  ]
+}
